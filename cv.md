@@ -2,7 +2,7 @@
 
 ## Contacts
 
-E - mail: vust85@gmail.com
+E-mail: vust85@gmail.com
 
 Discord: Vitali#4246
 
