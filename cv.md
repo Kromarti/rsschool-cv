@@ -20,7 +20,7 @@ My objectives are to take everything from this course, go through it to the end 
 
 ## Skills
 
-Hyper text markup language (HTML), Cascading style sheets (CSS), basic knowledge of Git and JavaScript. 
+Hyper text markup language (HTML), Cascading style sheets (CSS), basic knowledge of Git, JavaScript and C.  
 
 ## Example of code:
 
